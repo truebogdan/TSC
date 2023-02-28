@@ -12,3 +12,5 @@ git status
    git config --global --list
 
 git config --global credential.helper store --- SAVE CREDENTIALS
+
+git status
