@@ -14,3 +14,5 @@ git status
 git config --global credential.helper store --- SAVE CREDENTIALS
 
 git status
+
+git@github.com:truebogdan/TSC.git
